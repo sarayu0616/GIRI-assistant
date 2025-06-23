@@ -1,0 +1,9 @@
+create a new folder and set up a virtual environment 
+In order to make the assisant work , you need install some libraries 
+Follow these commands on command prompt 
+1. pip install pipwin
+2. pip install pyaudio
+3. pip install SpeechRecognition pyttsx3 pywhatkit wikipedia pyjokes 
+4. copy the code in assistant.py file into VS code
+After all the installations are done -- enter this code in cmd -> python assistant.py
+And your assistant is ready
